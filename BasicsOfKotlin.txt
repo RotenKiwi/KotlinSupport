@@ -1,3 +1,0 @@
-1. Defining Variables: https://kotlinlang.org/docs/reference/basic-syntax.html#defining-variables
-2. Defining Functions: https://kotlinlang.org/docs/reference/basic-syntax.html#defining-functions
-3. The Repeat Loop: https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html
